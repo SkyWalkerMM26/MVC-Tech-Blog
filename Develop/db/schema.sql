@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techfund_db;
+CREATE DATABASE techfund_db;
