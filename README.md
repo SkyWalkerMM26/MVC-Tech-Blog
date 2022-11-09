@@ -1,6 +1,5 @@
 # MVC-Tech-Blog
 ## Author: Mai Moua 
-https://mvctechblog2022nov08.herokuapp.com/
 [GitHub](https://github.com/SkyWalkerMM26) | [LinkedIn](https://www.linkedin.com/in/mai-moua-69a50517a/) | 
 
 <img src="https://img.shields.io/badge/LICENSE-MIT-COLOR.svg?logo=LOGO">
