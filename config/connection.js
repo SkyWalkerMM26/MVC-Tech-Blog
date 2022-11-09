@@ -3,6 +3,7 @@ require('dotenv').config();
 
 let sequelize;
 
+//protect mysql private login information
 if (process.env.JAWSDB_URL) {
   sequelize = new Sequelize(process.env.JAWSDB_URL);
 } else {
