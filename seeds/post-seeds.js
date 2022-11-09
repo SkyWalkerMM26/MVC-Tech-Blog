@@ -9,7 +9,7 @@ const postData = [
   {
     title: 'Controller',
     post_text: 'The controller files can manipulates the model data.',
-    user_id: 4,
+    user_id: 2,
   },
 
 ]

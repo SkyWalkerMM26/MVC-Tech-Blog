@@ -9,7 +9,7 @@ const commentData = [
   {
     comment_text: "This is amazing!",
     post_id: 1,
-    user_id: 4
+    user_id: 2
   },
 ];
 
